@@ -2,11 +2,13 @@
 // These keys have been disabled, but remain here for reference purposes.
 module.exports = {
   googleClientID:
-    '964808011168-29vqsooppd769hk90kjbjm5gld0glssb.apps.googleusercontent.com',
-  googleClientSecret: 'KnH-rZC23z4fr2CN4ISK4srN',
-  mongoURI: 'mongodb://stephen:password@ds239128.mlab.com:39128/blog_dev',
-  cookieKey: '123123123',
-  redisUrl: 'redis://127.0.0.1:6379',
-  accessKeyId: 'AKIAIWSXFHRM7F6Z3NWQ',
-  secretAccessKey: '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'
+    "992097403399-2vfur57cu3bpetbgfu4hp4ncgufmm920.apps.googleusercontent.com",
+  googleClientSecret: "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",
+  mongoURI:
+    "mongodb+srv://lscsantiagosal:zwQu74u5e0BmFlUd@cluster0.o1ems19.mongodb.net/blog-dev?ssl=true&retryWrites=true&w=majority",
+  cookieKey: "123123123",
+  redisUrl:
+    "redis://default:dN8hSaS99k0UodbWlx4fi7zszyLqY0MP@redis-12130.c283.us-east-1-4.ec2.cloud.redislabs.com:12130/0",
+  accessKeyId: "AKIAIWSXFHRM7F6Z3NWQ",
+  secretAccessKey: "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",
 };
